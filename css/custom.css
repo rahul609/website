@@ -1,0 +1,288 @@
+body
+{
+    background-image: url("images/background image.jpg");
+ 
+
+  }
+
+  .logo
+  {
+
+   margin-left:30px;
+
+  }
+
+  .search button
+  {
+
+ color:red;
+ background-color:silver;
+  }
+
+
+  #image1 :hover
+  {
+ 
+    opacity: 0.5;
+
+
+  }
+
+  
+
+ .container
+ {
+
+margin-top: 7%;
+
+ }
+
+
+
+ .col-sm h2
+ {
+
+ 
+    color:white;
+    font-family: 'Lobster', cursive;
+    margin-top: 90px;
+
+ }
+
+ .col-sm p 
+ {
+   
+    margin-top:5%;
+    color:white;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 25px;
+
+ }
+
+#mo
+{
+    background-color:black;
+    color:white;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+   
+    
+}
+
+#mm
+{
+    background-color:grey;
+    border:3px solid white;
+    font-family: 'Audiowide', cursive;
+   
+    
+}
+
+#ml
+{
+    background-color:black;
+    color:white;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+   
+    
+}
+
+#mp
+{
+    background-color:grey;
+    border:3px solid white;
+    font-family: 'Audiowide', cursive;
+    
+}
+
+#mi
+{
+    background-color:black;
+    color:white;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+   
+    
+}
+
+#ml
+{
+    background-color:grey;
+    border:3px solid white;
+    font-family: 'Audiowide', cursive;
+   
+    
+}
+
+#mg
+{
+    background-color:black;
+    color:white;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+   
+   
+    
+}
+
+#headingTwo a, #headingOne a, #headingThree a
+{
+
+color:white;
+
+}
+
+#foot
+{
+    clear: both;
+    width: 100%;
+    text-align: center;
+    color:white;  
+    margin-top: 5%;     
+
+
+}
+
+#copyright
+{
+
+margin-left:550px;
+}
+
+.container h1
+{
+
+color:white;
+text-align: center;
+margin-bottom:3%;
+font-size:50px;
+text-decoration: underline;
+font-family: 'Aclonica', sans-serif;
+
+}
+
+#text
+{
+
+text-align: center;
+color:white;
+margin-bottom:2%;
+text-decoration: underline;
+font-family: 'Bungee Inline', cursive;
+
+
+}
+
+#text h1
+{
+
+margin-top:80px;
+
+}
+
+#text1
+{
+
+text-align: center;
+color:white;
+margin-bottom:2%;
+text-decoration: underline;
+font-family: 'Bungee Inline', cursive;
+
+
+}
+
+#text1 h1
+{
+
+
+    margin-top:80px;
+
+}
+
+ .container img
+{
+
+    border:groove black 5px;
+
+}
+#description h1
+{
+
+float: right;
+color:white;
+margin-right:300px;
+margin-top: 30px;
+font-family: 'Creepster', cursive;
+
+}
+
+#content p
+{
+
+margin-top:60px;
+font-family: 'Chelsea Market', cursive;
+}
+
+.col
+{
+
+margin-top: 80px;
+margin-left: 280px;
+    
+}
+
+#quote h1
+{
+
+color:red;
+font-size: 70px;
+margin-left:120px;
+margin-top:30px;
+font-family: 'Shojumaru', cursive;
+
+}
+
+#image2
+{
+
+    margin-top: 90px;
+    margin-left: 130px;
+    margin-bottom: 40px;
+    border:solid 5px black;
+    margin-right: 130px;
+
+
+}
+
+.row p
+{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color:white;
+
+}
+
+.col img
+{
+
+border:solid 5px black;
+
+}
+
+.col-sm form label
+{
+
+color:white;
+
+}
+
+#form h1
+{
+
+color:white;
+text-align: center;
+margin-top: 20px;
+
+}
